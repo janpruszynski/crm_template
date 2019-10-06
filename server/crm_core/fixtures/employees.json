@@ -1,0 +1,26 @@
+[
+  {
+    "model": "crm_core.employee",
+    "pk": 1,
+    "fields": {
+      "first_name": "Jan",
+      "last_name": "Wlusek",
+      "phone": "111222333",
+      "email": "janwlusek@email.com",
+      "position": "Chieftan",
+      "created_at": "2019-10-01 00:00:00"
+      }
+    },
+    {
+      "model": "crm_core.employee",
+      "pk": 2,
+      "fields": {
+        "first_name": "Maciej",
+        "last_name": "Kowalski",
+        "phone": 222333111,
+        "email": "maciejkowalski@email.com",
+        "position": "Parobas",
+        "created_at": "2019-10-02 00:00:00"
+      }
+    }
+]
